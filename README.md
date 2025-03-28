@@ -9,7 +9,7 @@ This GitHub repository serves as the starting point for my **Data Analyst** port
 
 Currently, this repo features a single project, but there's more to come!:
 
-- **Lake Model Analysis (`lake_model.ipynb`)**  
+- **Lake Model Analysis ([`lake_model.ipynb`](lake_model.ipynb))**  
   *In this notebook, I explore and visualize water-level data for several Great Lakes over time.* 
 
 Even with just one project, you’ll see my fundamental approach to data analytics:
@@ -59,7 +59,6 @@ Feel free to **watch** or **star** this repo to follow my progress!
 
 I’m actively looking for **Data Analyst roles** where I can contribute my skills in data exploration, visualization, and insights generation.  
 - **Email**: [doyleme48@gmail.com](mailto:doyleme48@gmail.com)  
-
 
 I appreciate you taking the time to visit my GitHub! If you have any feedback or questions, don’t hesitate to reach out.
 
