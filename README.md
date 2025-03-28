@@ -58,8 +58,8 @@ Feel free to **watch** or **star** this repo to follow my progress!
 ## Let’s Connect
 
 I’m actively looking for **Data Analyst roles** where I can contribute my skills in data exploration, visualization, and insights generation.  
-- **Email**: [youremail@example.com](mailto:youremail@example.com)  
-- **LinkedIn**: [YourLinkedInProfile](#)
+- **Email**: [doyleme48@gmail.com](mailto:doyleme48@gmail.com)  
+
 
 I appreciate you taking the time to visit my GitHub! If you have any feedback or questions, don’t hesitate to reach out.
 
