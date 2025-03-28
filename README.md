@@ -7,10 +7,10 @@ This GitHub repository serves as the starting point for my **Data Analyst** port
 
 ## About This Repository
 
-Currently, this repo features a single project:
+Currently, this repo features a single project, but there's more to come!:
 
 - **Lake Model Analysis (`lake_model.ipynb`)**  
-  *In this notebook, I explore and visualize water-level data for several Great Lakes.* 
+  *In this notebook, I explore and visualize water-level data for several Great Lakes over time.* 
 
 Even with just one project, you’ll see my fundamental approach to data analytics:
 1. **Data Ingestion & Cleaning:** Using Python to import and preprocess CSV data.
